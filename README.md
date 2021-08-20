@@ -20,3 +20,6 @@ This respository is cloned into your local project folder during the `tapestry i
 [tapestry-cli]: https://github.com/tapestry-pipeline/tapestry-cli
 [tapestry-dashboard]: https://github.com/tapestry-pipeline/tapestry-dashboard
 
+### Resources:
+- Learn more about Airbyte [in the docs](https://docs.airbyte.io/)
+- Read our [Case Study](https://tapestry-pipeline.github.io/) about Tapestry
